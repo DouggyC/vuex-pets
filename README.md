@@ -1,4 +1,13 @@
-# vue_adopt_pets
+# Vuex Adopt Pets
+> Basic Vue App using vuex state management pattern.
+___
+
+## Built with
+- Vue
+- Vuex
+- boostrap-vue
+___
+___
 
 ## Project setup
 ```
